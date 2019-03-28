@@ -1,0 +1,38 @@
+100
+PointRD
+17 Rue de Normandie
+92400, Courbevoie,
+France
+
+Date
+27/03/2019
+
+Facturé à
+Mahanna Rayan
+56 avenue de l'arche
+92400, Courbevoie
+
+DÉSIGNATION
+Traitement CDP
+
+Total de la facture:
+
+PRIX UNIT. HT MONTANT HT
+550,00
+
+550,00
+
+Total HT
+
+550,00
+
+TVA 20.0%
+
+110,00
+
+660,00 €
+
+Conditions et modalités de paiement
+Paiement à 15 jours dès réception de la facture.
+
+
